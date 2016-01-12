@@ -1,0 +1,16 @@
+ {
+	"name": "fluidphp/helpers",	
+	"type": "framework",
+	"description": "FluidPhp framework helpers",
+	"keywords": ["php framework"],
+	"homepage": "http://phptoolcase.com",
+	"license": "GPL V2",
+	"authors": 
+	[
+		{
+			"name": "Carlo Pietrobattista",
+			"email": "carlo@salapc.com",
+			"role": "Developer"
+		}
+	]
+}
